@@ -4,7 +4,7 @@
 #### Usage
 - get install shell
 ```
-wget https://github.com/minicloudsky/auto-install-jdk-8u-261-linux-x64/releases/download/1.0/install_jdk-8u261-linux-x64.sh 
+wget https://github.com/minicloudsky/auto-install/releases/download/1.0/install_jdk-8u261-linux-x64.sh 
 ```
 - start install
 ```
