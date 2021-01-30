@@ -1,4 +1,4 @@
-# install-jdk-8u-261-linux-x64
+# auto install linux utility softwares to save your lives
 ## jdk auto install
 ### Auto install and configure jdk for your centos machine ~
 #### Usage
